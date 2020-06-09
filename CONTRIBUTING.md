@@ -1,31 +1,35 @@
 # Contributing
 
-[Are you accepting contributions at this time? If not, please state that here.
-No need to include content from the rest of this document.]
+Currently in initial development and not accepting contributions.
 
 For general contribution and community guidelines, please see the [community repo](https://github.com/cyberark/community).
 
 ## Table of Contents
 
-- [Development](#development)
-- [Testing](#testing)
-- [Releases](#releases)
-- [Contributing](#contributing-workflow)
+- [Contributing](#contributing)
+  - [Table of Contents](#table-of-contents)
+  - [Development](#development)
+  - [Testing](#testing)
+  - [Releases](#releases)
+  - [Contributing workflow](#contributing-workflow)
 
 ## Development
 
-TODO:
-[What development tools are required to start working on this project?]
+<!-- TODO:
+[What development tools are required to start working on this project?] -->
+TBD
 
 ## Testing
 
-TODO:
-[Instructions for running the test suite]
+<!-- TODO:
+[Instructions for running the test suite] -->
+TBD
 
 ## Releases
 
-TODO:
-[Instructions for creating a new release]
+<!-- TODO:
+[Instructions for creating a new release] -->
+TBD
 
 ## Contributing workflow
 
